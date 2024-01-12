@@ -1,1 +1,1 @@
-# [Zomato] (https://zomato-24.netlify.app/)
+# [Zomato](https://zomato-24.netlify.app/)
