@@ -15,8 +15,6 @@ const Header = () => {
         <div className="right">
           <span>Investor Relations</span>
           <span>Add restaurant</span>
-          <span>Log in</span>
-          <span>Sign up</span>
         </div>
       </nav>
       <div className="hamburger" onClick={() => setOpen(!open)}>
@@ -28,8 +26,6 @@ const Header = () => {
           <div className="innerMenu">
             <span>Investor Relations</span>
             <span>Add restaurants</span>
-            <span>Log In</span>
-            <span>Sign Up</span>
           </div>
         </div>
       )}
